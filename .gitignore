@@ -1,0 +1,18 @@
+# Build outputs and installers
+dist/
+installer/
+bin/
+obj/
+*.pdb
+
+# Personal vocabulary and learning history
+data/
+*.bak
+*.tmp
+test-results.txt
+
+# Local editor settings
+.vs/
+.idea/
+*.user
+*.suo
